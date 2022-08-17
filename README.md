@@ -1,4 +1,5 @@
-# order-summary-component challenge by FrontEnd Mentor at frontednmentor.io
+# order-summary-component challenge by FrontEnd Mentor  
+## @frontednmentor.io
 ### check their website for more front-end challenges 
 ### forked by Mahdi Madi https://github.com/Mahdi-abd-rahmen-Madi
 ### follow up with this tutorial from freecodecamp.org by Madison Kanna 
