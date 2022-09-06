@@ -94,7 +94,7 @@ button {
 }
 
 .proceed-button:hover{opacity:0.8}
-cancel-button{
+.cancel-button{
     background-color:white;
     color:var(--Desaturated-blue);
     margin-top: 22px;
