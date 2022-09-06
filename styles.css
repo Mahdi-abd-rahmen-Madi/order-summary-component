@@ -104,6 +104,12 @@ button {
 
 .cancel-button:hover{color:black;} 
 
+/* attribution */
+.attribution { font-size: 14px; text-align: center; color:#fff;}
+.attribution a { color: hsl(216, 74%, 60%);  }
+.attribution a:hover { color: var(--hover-c) ;transition : 0.3s ease; }
+.attribution a:visited { color:var(--visited-c); }
+
 
 @media (max-width: 375px) {
     body {background-image:url(./images/pattern-background-mobile.svg);
