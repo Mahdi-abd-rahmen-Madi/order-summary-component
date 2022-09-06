@@ -1,7 +1,7 @@
 # order-summary-component challenge by FrontEnd Mentor  
 ## frontednmentor.io
 ### Live preview :
-##### https://mahdi-abd-rahmen-madi.github.io/tutorial-order-summary-component/
+##### https://mahdi-abd-rahmen-madi.github.io/order-summary-component/
 ### challenge link:
 ###### https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-nlWUAPODI-
 ### check their website for more front-end challenges 
