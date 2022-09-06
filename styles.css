@@ -99,7 +99,6 @@ button {
     color:var(--Desaturated-blue);
     margin-top: 22px;
     padding: top 2rem;
-    border:1px solid black;
 }
 
 .cancel-button:hover{color:black;} 
